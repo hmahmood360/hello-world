@@ -6,3 +6,5 @@ This repository is built step by step in the tutorial.
 Now I am on github
 
 Editing again to see how pull command works
+
+pushing from local to github
